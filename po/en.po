@@ -1,0 +1,90 @@
+# Translation template for streamripper-gui.
+# Copyright (C) 2012
+# This file is distributed under the same license as the streamripper-gui package.
+# Krasimir S. Stefanov (lokster) <lokiisyourmaster@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: streamripper-gui\n"
+"Report-Msgid-Bugs-To: lokiisyourmaster@gmail.com\n"
+"POT-Creation-Date: 2012-08-28 22:25+0300\n"
+"PO-Revision-Date: 2012-08-28 22:27+0200\n"
+"Last-Translator: Krasimir S. Stefanov <lokiisyourmaster@gmail.com>\n"
+"Language-Team: SKSS <lokiisyourmaster@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+
+#: src/streamripper-gui.py:196
+msgid "Error while processing stream address!"
+msgstr "Error while processing stream address!"
+
+#: src/streamripper-gui.py:219
+#: src/streamripper-gui.glade:9
+msgid "Streamripper GUI"
+msgstr "Streamripper GUI"
+
+#: src/streamripper-gui.py:221
+msgid "Krasimir S. Stefanov <lokiisyourmaster@gmail.com>"
+msgstr "Krasimir S. Stefanov <lokiisyourmaster@gmail.com>"
+
+#: src/streamripper-gui.py:223
+msgid "Bulgarian - Krasimir S. Stefanov <lokiisyourmaster@gmail.com>"
+msgstr "Bulgarian - Krasimir S. Stefanov <lokiisyourmaster@gmail.com>"
+
+#: src/streamripper-gui.py:227
+msgid ""
+"Streamripper GUI\n"
+"Copyright (C) 2012 Krasimir S. Stefanov\n"
+"\n"
+"This program is free software: you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation, either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+"Streamripper GUI\n"
+"Copyright (C) 2012 Krasimir S. Stefanov\n"
+"\n"
+"This program is free software: you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation, either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <http://www.gnu.org/licenses/>."
+
+#: src/streamripper-gui.glade:23
+msgid "Stream:"
+msgstr "Stream:"
+
+#: src/streamripper-gui.glade:64
+msgid "Get from player"
+msgstr "Get from player"
+
+#: src/streamripper-gui.glade:87
+msgid "Output Directory:"
+msgstr "Output Directory:"
+
+#: src/streamripper-gui.glade:100
+msgid "Select output directory"
+msgstr "Select output directory"
+
+#: src/streamripper-gui.glade:180
+msgid "Hide"
+msgstr "Hide"
+

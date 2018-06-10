@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Streamripper GUI
+Name[bg]=Streamripper GUI
+GenericName=Record Internet Radio
+GenericName[bg]=Запис на Интернет радио
+
+Comment=
+Comment[bg]=
+Exec=streamripper-gui
+Icon=audio-x-generic
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=AudioVideo;Audio;
+
